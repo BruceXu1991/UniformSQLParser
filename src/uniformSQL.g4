@@ -243,7 +243,6 @@ keyword
  | FOLLOWING
  | CURRENT
  | LESS
- | MORE
  | OVER
  | GROUPING
  | SETS
@@ -560,7 +559,6 @@ PRECEDING: P_ R_ E_ C_ E_ D_ I_ N_ G_ ;
 FOLLOWING: F_ O_ L_ L_ O_ W_ I_ N_ G_ ;
 CURRENT: C_ U_ R_ R_ E_ N_ T_ ;
 LESS: L_ E_ S_ S_ ;
-MORE: M_ O_ R_ E_ ;
 OVER: O_ V_ E_ R_ ;
 GROUPING: G_ R_ O_ U_ P_ I_ N_ G_ ;
 SETS: S_ E_ T_ S_ ;
