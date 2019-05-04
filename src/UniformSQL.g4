@@ -1,4 +1,4 @@
-grammar uniformSQL;
+grammar UniformSQL;
 
 fragment A_ :	'a' | 'A';
 fragment B_ :	'b' | 'B';
